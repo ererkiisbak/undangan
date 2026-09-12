@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.astro/
+
+# Database (runtime generated)
+database/
+
+# Logs
+*.log
+dev.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/settings.json
+
+# Environment
+.env.local
+.env.*.local
+
+# Temporary files
+_test.mjs
+*.tmp
+
+# Archives (don't compress compressed files)
+*.rar
+*.zip
